@@ -113,8 +113,8 @@ header {
 /* Hero */
 
 .hero .container {
-  padding-top: 172px;
-  padding-bottom: 291px;
+  padding-top: 192px;
+  padding-bottom: 192px;
 }
 .hero {
   background: var(--title-bcg-color);
